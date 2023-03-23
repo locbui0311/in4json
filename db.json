@@ -1,0 +1,13 @@
+{
+  "posts": [
+    { "id": 1, "firstName": "Bui", "lastName": "Loc","phone":"0333380274","email":"locbui0311@gmail.com","Address":"Ho Chi Minh"},
+    { "id": 2, "firstName": "Nguyen","lastName": "Lam","phone":"0333380275","email":"lamnguyen@gmail.com","Address":"Ho Chi Minh"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
